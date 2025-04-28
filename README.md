@@ -11,6 +11,17 @@
 
 ---
 
+## 🌟 About SPARK4AI
+
+I co-founded **SPARK4AI** at IIT Kharagpur to ignite a culture of **collaborative research and innovation** in Artificial Intelligence.  
+Our mission is to provide a **platform for students and researchers** to work together on impactful AI projects, focusing on **real-world applications**.
+
+> **Vision**:  
+> To establish a **world-class research lab in India** dedicated to advancing **research, innovation, and development** in Artificial Intelligence.  
+> I aspire to contribute towards **strengthening India's AI ecosystem**, nurturing local talent, and building technology solutions that can **positively transform industries and society**.
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Languages**: Python | C++ | SQL | ReactJS
@@ -52,8 +63,8 @@
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-tiwari-b24952208/)
-- [GitHub](https://github.com/abhisirka2001)
+- [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-tiwari-b24952208/) 
+- [GitHub](https://github.com/abhishektiwari)
 - [Email](mailto:abhishektiwari.nssc@gmail.com)
 
 ---
