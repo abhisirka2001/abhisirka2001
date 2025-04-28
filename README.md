@@ -64,7 +64,7 @@ Our mission is to provide a **platform for students and researchers** to work to
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-tiwari-b24952208/) 
-- [GitHub](https://github.com/abhishektiwari)
+- [GitHub](https://github.com/abhisirka2001)
 - [Email](mailto:abhishektiwari.nssc@gmail.com)
 
 ---
