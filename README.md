@@ -52,8 +52,8 @@
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](#) (Insert your LinkedIn profile link)
-- [GitHub](https://github.com/abhishektiwari)
+- [LinkedIn](#) (https://www.linkedin.com/in/abhishek-kumar-tiwari-b24952208/)
+- [GitHub](https://github.com/abhisirka2001)
 - [Email](mailto:abhishektiwari.nssc@gmail.com)
 
 ---
