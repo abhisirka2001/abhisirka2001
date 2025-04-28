@@ -4,7 +4,6 @@
 🔭 **AI Developer Intern** @ ModelsLab | **Computer Vision Intern** @ Dewinter Optical | **ML Intern** @ TheAware.AI  
 🌱 **Skills**: TTS Model Training | Audio/Image Processing | LLM Finetuning | Server Development & Deployment  
 🚀 **Projects**: AI Dubbing API | XTTS V2 Finetuning | Vision-based Blood Cell Segmentation | Text-based Question Generation  
-🏆 **Achievements**: 12th place in IIT Guwahati's Convolve, Finalist in Kaggle GNSS Challenge  
 🤝 **Co-founder**: [SPARK4AI](https://github.com/SPARK4AI) - Collaborative AI Research Society at IIT Kharagpur  
 ✍️ **Current Focus**: Building Generative AI, Speech AI, and Advanced Machine Learning Systems  
 📫 Reach me at: [abhishektiwari.nssc@gmail.com](mailto:abhishektiwari.nssc@gmail.com)
