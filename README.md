@@ -15,6 +15,8 @@
 I co-founded **SPARK4AI** at IIT Kharagpur to ignite a culture of **collaborative research and innovation** in Artificial Intelligence.  
 Our mission is to provide a **platform for students and researchers** to work together on impactful AI projects, focusing on **real-world applications**.
 
+Follow my discord server to be a part of my initiative - https://discord.gg/QMcKPdYQ.
+
 > **Vision**:  
 > To establish a **world-class research lab in India** dedicated to advancing **research, innovation, and development** in Artificial Intelligence.  
 > I aspire to contribute towards **strengthening India's AI ecosystem**, nurturing local talent, and building technology solutions that can **positively transform industries and society**.
